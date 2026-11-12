@@ -1,5 +1,5 @@
 newmtl Blade
-Kd 0.100 0.110 0.180
+Kd 0.100 0.110 0.190
 Ka 0 0 0
 Ks 0.5 0.5 0.5
 Ns 80
@@ -8,6 +8,22 @@ illum 2
 newmtl Hamon
 Kd 0.740 0.840 1.000
 Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+illum 2
+
+newmtl EdgeGlow
+Kd 0.800 0.950 1.000
+Ka 0 0 0
+Ke 0.800 0.950 1.000
+Ks 0.5 0.5 0.5
+Ns 80
+illum 2
+
+newmtl Vein
+Kd 0.620 0.360 1.000
+Ka 0 0 0
+Ke 0.620 0.360 1.000
 Ks 0.5 0.5 0.5
 Ns 80
 illum 2
@@ -21,6 +37,13 @@ Ns 80
 illum 2
 
 newmtl Habaki
+Kd 0.950 0.740 0.260
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 80
+illum 2
+
+newmtl MoonGuard
 Kd 0.950 0.740 0.260
 Ka 0 0 0
 Ks 0.5 0.5 0.5
@@ -64,7 +87,7 @@ Ns 80
 illum 2
 
 newmtl Ito
-Kd 0.200 0.100 0.360
+Kd 0.220 0.100 0.400
 Ka 0 0 0
 Ks 0.5 0.5 0.5
 Ns 80
@@ -81,6 +104,22 @@ newmtl CrownGem
 Kd 0.720 0.360 1.000
 Ka 0 0 0
 Ke 0.720 0.360 1.000
+Ks 0.5 0.5 0.5
+Ns 80
+illum 2
+
+newmtl MoonAura
+Kd 0.550 0.500 1.000
+Ka 0 0 0
+Ke 0.550 0.500 1.000
+Ks 0.5 0.5 0.5
+Ns 80
+illum 2
+
+newmtl MoonHalo
+Kd 0.700 0.920 1.000
+Ka 0 0 0
+Ke 0.700 0.920 1.000
 Ks 0.5 0.5 0.5
 Ns 80
 illum 2
